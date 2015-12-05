@@ -1,7 +1,7 @@
 # coding: utf-8
 from tools import *
 import xbmcaddon
-import update_subscriptions from main
+from main import update_subscriptions
 from time import time
 from time import asctime
 from time import localtime
